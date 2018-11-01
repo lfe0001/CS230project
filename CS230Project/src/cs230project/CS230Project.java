@@ -17,6 +17,8 @@ public class CS230Project {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("cs230project.CS230Project.main()");
+                
     }
     
 }
